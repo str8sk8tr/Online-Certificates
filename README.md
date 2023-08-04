@@ -1,2 +1,2 @@
 # Online-Certificates
-Online certificates earned studying online - Cybrary
+Online certificates earned studying online using home labs.
